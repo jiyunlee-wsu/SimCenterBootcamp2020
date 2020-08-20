@@ -87,7 +87,7 @@ Week 2
   * MessagePassing & MPI
   * Shared Memory & OpenMP
 
-* Day 7 - C: Datatypes & C++
+* Day 7 - `C: Datatypes & C++ <https://github.com/NHERI-SimCenter/SimCenterBootcamp2020/blob/master/presentations/Abstraction.pdf>`_
 
   * C Datatypes
   * Exercise
@@ -95,14 +95,14 @@ Week 2
   * Exercise
 
 
-* Day 8 - AI
+* Day 8 - 'Machine Learning <https://github.com/NHERI-SimCenter/SimCenterBootcamp2020/blob/master/presentations/MachineLearining.pdf>`_
 
   * Basics of Machine Learning
   * Popular Algorithms
   * Exercise
 
 
-* Day 9 - DesignSafe & Agave
+* Day 9 - `DesignSafe & Agave <https://github.com/NHERI-SimCenter/SimCenterBootcamp2020/blob/master/presentations/Agave.pdf>`_
 
   * Review: Exercise
   * Intro to DesignSafe & Tapis
